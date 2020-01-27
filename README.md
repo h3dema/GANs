@@ -18,6 +18,12 @@ This is a brief collection of GAN bibliography, with papers, tutorials and links
 * NASH, Charlie; WILLIAMS, Christopher KI. The shape variational autoencoder: A deep generative model of part‐segmented 3D objects. In: Computer Graphics Forum. 2017. p. 1-12.
 * RADFORD, Alec; METZ, Luke; CHINTALA, Soumith. Unsupervised representation learning with deep convolutional generative adversarial networks. arXiv preprint arXiv:1511.06434, 2015.
 * YUMER, Mehmet Ersin et al. Procedural modeling using autoencoder networks. In: Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology. 2015. p. 109-118.
+* [Least squares generative adversarial networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Mao_Least_Squares_Generative_ICCV_2017_paper.pdf)
+* [Self-attention](https://arxiv.org/pdf/1805.08318.pdf) generative adversarial networks.
+* [Unrolled](https://arxiv.org/pdf/1611.02163.pdf)) generative adversarial networks.
+* [Coupled](https://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks.pdf) generative adversarial networks.
+* Stackgan: [Text to photo-realistic image synthesis](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_StackGAN_Text_to_ICCV_2017_paper.pdf) with stacked generative adversarial networks
+
 
 # GANs with Reinforcement Learning
 
