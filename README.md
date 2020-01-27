@@ -55,3 +55,4 @@ This is a brief collection of GAN bibliography, with papers, tutorials and links
  * [Tensorflow implementation of DCGAN](https://github.com/carpedm20/DCGAN-tensorflow). The referenced torch code can be [found here](https://github.com/soumith/dcgan.torch).
  * [SR-GAN](https://github.com/deepak112/Keras-SRGAN) Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network implemented in Keras
  * [Code and hyperparameters](https://github.com/goodfeli/adversarial) for the paper orginal GAN from Goodfellow et al.
+ * [Unrolled](https://github.com/poolio/unrolled_gan) GAN in Keras.
