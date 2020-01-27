@@ -1,5 +1,7 @@
-# GANs
-Brief collection of Generative Adversarial Networks bibliography
+# Generative Adversarial Networks
+
+This is a brief collection of GAN bibliography, with papers, tutorials and links to code.
+
 
 
 # Papers and tutorials
