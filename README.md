@@ -6,8 +6,9 @@ This is a brief collection of GAN bibliography, with papers, tutorials and links
 
 # Papers and tutorials
 
-* First paper on ["Generative Adversarial Networks"](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. ArXiv 2014.
 * [NIPS 2016 Tutorial](https://arxiv.org/abs/1701.00160) about GAN by Goodfellow.
+* [Video](https://www.youtube.com/watch?v=HGYYEUSm-0Q) from Goodfellow's NIPS 2016 tutorial.
+* First paper on ["Generative Adversarial Networks"](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. ArXiv 2014.
 *	WU, Jiajun et al. Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling. In: Advances in neural information processing systems. 2016. p. 82-90.
 * CHANG, Angel X. et al. Shapenet: An information-rich 3d model repository. arXiv preprint arXiv:1512.03012, 2015.
 * CHOY, Christopher B. et al. 3d-r2n2: A unified approach for single and multi-view 3d object reconstruction. In: European conference on computer vision. Springer, Cham, 2016. p. 628-644.
@@ -36,6 +37,11 @@ This is a brief collection of GAN bibliography, with papers, tutorials and links
 # Web pages
 
 * Nice [introduction](https://pathmind.com/wiki/generative-adversarial-network-gan) to GAN with code.
+
+# Talks and videos
+* Ian Goodfellow talk to Lex Fridman
+ in [his podcast](https://www.youtube.com/watch?v=Z6rxFNMGdn0).
+* Ian Goodfellow talking about [Adversarial Machine Learning in ICLR 2019](https://www.youtube.com/watch?v=sucqskXRkss).
 
 
 # Tricks
